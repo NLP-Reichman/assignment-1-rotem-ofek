@@ -1,1 +1,1 @@
-https://github.com/RotemGat/NLP/blob/main/Assignment_1.ipynb
+https://colab.research.google.com/drive/1iAFd25gXlfjUGGid-rfSaxTiCO_hR8xZ?usp=sharing
