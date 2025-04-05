@@ -1,1 +1,1 @@
-link
+https://github.com/RotemGat/NLP/blob/main/Assignment_1.ipynb
